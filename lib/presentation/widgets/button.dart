@@ -17,13 +17,13 @@ class Button extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.symmetric(horizontal: Sizes.dimen_16.w.toDouble()),
-      margin: EdgeInsets.symmetric(vertical: Sizes.dimen_8.h.toDouble()),
-      height: Sizes.dimen_24.h.toDouble(),
+      padding: EdgeInsets.symmetric(horizontal: Sizes.dimen_16.w),
+      margin: EdgeInsets.symmetric(vertical: Sizes.dimen_8.h),
+      height: Sizes.dimen_24.h,
       decoration: BoxDecoration(
         gradient:
             const LinearGradient(colors: [AppColor.royalBlue, AppColor.violet]),
-        borderRadius: BorderRadius.circular(Sizes.dimen_20.w.toDouble()),
+        borderRadius: BorderRadius.circular(Sizes.dimen_20.w),
       ),
       child: TextButton(
         onPressed: onPressed,
