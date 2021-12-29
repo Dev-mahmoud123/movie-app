@@ -1,0 +1,22 @@
+
+{
+  "FavoriteMovies": "Favorite Movies",
+  "Language": "Language",
+  "Feedback": "Feedback",
+  "About": "About",
+  "Popular": "POPULAR",
+  "Now": "NOW",
+  "Soon": "SOON",
+  "English": "English",
+  "Arabic": "Arabic",
+  "Ok": "Ok",
+  "Retry": "Retry",
+  "SomeThingWentWrong": "Some thing went wrong...",
+  "CheckNetwork": "Please check your network connection and press retry button or put in as a bug by pressing on feedback button",
+  "aboutDescription": "This Product uses the TMDb Api but is not endorsed or certified by TMDb , This app is developed for showing movies purpose .",
+  "noMovies" : "Sorry , No movies under this section",
+  "Cast" : "Cast",
+  "VideoTrailers" :"Video Trailers",
+  "noSearchedMovies": "No movies found , please search with another words .",
+  "noFavoriteMovies": "There is No Favorite movies found ."
+}
